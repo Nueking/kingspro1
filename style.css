@@ -19,3 +19,6 @@ li a {
 li a:hover {
     background-color: rgba(129, 24, 24, 0.756);
    } 
+.elan {
+    padding: 10px;
+}
